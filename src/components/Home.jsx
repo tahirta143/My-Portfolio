@@ -125,7 +125,7 @@ function Page() {
               </button>
             </a>
             <a
-              href="/cv.pdf"
+              href="/Myresume.pdf"
               download="cv.pdf"
               className="w-40 h-12 border-2 border-red-700 hover:bg-red-700 hover:text-white hover:shadow-[0_8px_30px_rgba(220,20,60,0.7)] transition-all duration-500 hover:scale-105 font-semibold rounded-lg flex items-center justify-center"
             >

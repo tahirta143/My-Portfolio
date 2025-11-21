@@ -11,21 +11,21 @@ export default function About() {
       title: "Romofyi Website",
       category: "web",
       image: "/project1.png",
-      link: "#",
+      link: "https://romofyi-8em9.vercel.app/",
     },
     {
       id: 2,
-      title: "E-commerce App",
+      title: "Slack App",
       category: "design",
       image: "/project2.png",
-      link: "#",
+      link: "",
     },
     {
       id: 3,
-      title: "Portfolio Website",
+      title: "personal Portfolio Website",
       category: "web",
-      image: "/project3.png",
-      link: "#",
+      image: "/boy1.jpeg",
+      link: "https://my-portfolio-six-chi-91.vercel.app/",
     },
     {
       id: 4,
@@ -106,7 +106,7 @@ export default function About() {
                 <img
                   src={project.image}
                   alt={project.title}
-                  className="w-full h-48 sm:h-56 md:h-64 object-cover transform transition-transform duration-500 group-hover:scale-110"
+                  className="w-full h-48 sm:h-56 md:h-68 object-cover transform transition-transform duration-500 group-hover:scale-105"
                 />
               </div>
 

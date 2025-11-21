@@ -24,7 +24,7 @@ export default function About() {
           {/* Image */}
           <div className="flex-shrink-0">
             <img
-              src="/boy.jpg"
+              src="/boy2.jpeg"
               alt="Profile"
               className="rounded-lg shadow-lg w-56 sm:w-72 md:w-80 lg:w-[300px] h-auto"
             />
