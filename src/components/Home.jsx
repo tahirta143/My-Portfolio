@@ -81,8 +81,13 @@ function Page() {
         <div className="relative flex items-center justify-center">
           <div
             className="absolute rounded-full border-[3px] border-dotted border-red-700 animate-spin-slow"
-            style={{ width: "250px", height: "250px" }}
+            style={{
+              width: "260px",
+              height: "260px",
+            }}
           ></div>
+
+          <div className="absolute rounded-full border-[3px] border-dotted border-red-700 animate-spin-slow md:w-[330px] md:h-[330px] hidden md:block"></div>
 
           <div className="w-[230px] h-[230px] md:w-[300px] md:h-[300px] rounded-full overflow-hidden border-[4px] border-red-700 relative z-10">
             <img
