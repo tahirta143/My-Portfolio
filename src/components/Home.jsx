@@ -86,7 +86,7 @@ function Page() {
 
           <div className="w-[230px] h-[230px] md:w-[300px] md:h-[300px] rounded-full overflow-hidden border-[4px] border-red-700 relative z-10">
             <img
-              src="/boy.jpg"
+              src="/boy1.jpeg"
               alt="boy"
               className="rounded-full w-full h-full object-cover"
             />
